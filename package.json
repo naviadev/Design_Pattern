@@ -1,0 +1,17 @@
+{
+  "name": "design_pattern",
+  "version": "1.0.0",
+  "description": "디자인 패턴을 학습, 노션에 정리한 뒤, 직접 구현하는 과정을 기록하는 레포지토리",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}
